@@ -13,7 +13,7 @@ Her sürümde (Releases) şunlar bulunur:
 
 ## Kurulum
 
-Cihazın web konsolunda **Ayarlar → Bakım → Ürün güncellemesi**:
+Cihazın web konsolunda **Ayarlar → Sistem → Ürün güncellemesi**:
 
 1. Cihazın mimarisine uyan `.pwpatch` dosyasını **Yükle ve doğrula**.
 2. Doğrulandıktan sonra **Bu sürüme geç → Onayla ve başlat**.
